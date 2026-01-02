@@ -25,9 +25,9 @@ Set up is also key for success in the course. Assignment 1 partly takes care of 
 The course will be a modern introduction to deep learning, transformers, GPT and beyond. We will have a mix of concepts, examples, applications in the industry, theory, algorithms, code and demos. Expect a lot of hands-on
 coding assignments and mini-projects. Towards the later half of the course, we will start to touch on the latest trends in Generative AI. 
 
-### Lecture Dates (Jan - March 2025)
-1.  Monday, 4-6 pm **In-person**
-2. Wednesday, 4-6 pm **In-person**
+### Lecture Dates (Jan - March 2026)
+1.  Monday, 4:30-6:30 pm **In-person**
+2. Wednesday, 4:30-6:30 pm **In-person**
 
 ### Course Syllabus (we may leave out some topics depending on the available time)
 
