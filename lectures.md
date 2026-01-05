@@ -25,4 +25,4 @@
 
 | Lecture | Lecture Topic | Pre-Lecture Slides | Annotated Lecture Slides | Lecture Videos | Notebooks | 
 | --- | --- | --- | --- | --- | --- |
-| Jan 5 | Introduction to the Course |  [Lecture 1]() | [Lecture 1 annotated]() | [Video]() |- | 
+| Jan 5 | Introduction to the Course |  [Lecture 1](lectures/Jan_6_2025_lecture.pdf) | [Lecture 1 annotated]() | [Video]() |- | 
