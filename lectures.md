@@ -26,3 +26,4 @@
 | Lecture | Lecture Topic | Pre-Lecture Slides | Annotated Lecture Slides | Lecture Videos | Notebooks | 
 | --- | --- | --- | --- | --- | --- |
 | Jan 5 | Introduction to the Course |  [Lecture 1](lectures/Jan_5_2026_lecture.pdf) | [Lecture 1 annotated]() | [Video]() |- | 
+| Jan 7 | History of LLMs & DL Foundations |  [Lecture 2](lectures/Jan_7_2026_lecture.pdf) | [Lecture 2 annotated]() | [Video]() |- | 
