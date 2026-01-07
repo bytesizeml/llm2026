@@ -58,3 +58,6 @@ coding assignments and mini-projects. Towards the later half of the course, we w
 1. **LLMs -> LVMs:** Moving from Language to Images and Videos
 1. **How the heck can you generate an image from just text?** Stable Diffusion 
 1. **Can you remove the photo-bomber from the pic?** In-painting using image segmentation and stable diffusion
+
+### Assignments Link
+All assignments can be found on canvas. Link: https://canvas.uw.edu/courses/1862279/assignments 
