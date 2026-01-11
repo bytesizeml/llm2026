@@ -23,10 +23,10 @@
 | Teaching Staff | Office Hours | Type |
 | --- | --- | --- |
 | Dr. Karthik Mohan | M, 6:30 pm - 6:50 pm | In-person | 
-| Arnav Das | |  |
-| Urvashi Taki | |  |
-| Haofei (Grading hours)|  |  |
+| Arnav Das | Tu, 4-5 pm | Zoom  |
+| Urvashi Taki | F, 6-7 pm | Zoom  |
+| Haofei (Grading hours)| Th, 4-5 pm | Zoom  |
 
 
-### Review Session
-Weekly review session will happen on **Friday, 4 pm - 4:45 pm** - Zoom link to be shared by TAs on discord
+### Review Session by TAs
+Weekly review session will happen on **Friday, 5 pm - 6 pm** - Zoom link to be shared by TAs on discord
