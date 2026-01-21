@@ -30,3 +30,4 @@
 | Jan 12 | DL Foundations |  [Lecture 3](lectures/Jan_12_2026_lecture_3.pdf) | [Lecture 3 annotated](lectures/Jan_12_2026_lecture_3_annotated.pdf) | [Video](https://www.youtube.com/watch?v=Pzr86h0psKk) |- | 
 | Jan 14 | DL Foundations and Semantic Search |  [Lecture 4 part 1](lectures/Jan_14_2026_lecture_4.pdf) [Lecture 4 part 2](lectures/Jan_14_2026_lecture_4_semantic_search.pdf) | [Lecture 4 Part 1 annotated](lectures/Jan_14_2026_lecture_4_annotated.pdf) |[Video Part 1](https://www.youtube.com/watch?v=6fvDo4BszGE) [Video Part 2](https://www.youtube.com/watch?v=Mdqr7PnOFOU) |- | 
 | Jan 19 | Semantic Searc Demo | | | [Video](https://www.youtube.com/watch?v=5w98uHI1oi0&t=0s) | - |
+| Jan 21 | Embeddings, Transformers, BERT | [Lecture 6]()|[Lecture 6 annotated](lectures/Jan_21_2026_lecture_6.pdf) | [Video]() |[Demo](https://github.com/jessevig/bertviz?utm_source=chatgpt.com) |
