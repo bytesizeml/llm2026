@@ -34,3 +34,4 @@
 | Jan 26 | Multi-Head Attention and sBERT | [Lecture 7](lectures/Jan_26_2026_lecture_7.pdf)|[Lecture 7 annotated](lectures/Jan_26_2026_lecture_7_annotated.pdf) | [Video]() | |
 | Jan 28 | Multi-Head Attention, FFN, sBERT | [Lecture 8](lectures/Jan_28_2026_lecture_8.pdf) [MHA walkthrough](lectures/Jan_28_2026_lecture_8_part2.pdf)|[Lecture 8 annotated](lectures/Jan_28_2026_lecture_8_part2.pdf) | [Video]() | |
 | Feb 2 | Moltbook, Training BERT, SBERT | [Lecture 9](lectures/Feb_2_2026_lecture_9.pdf) | [Lecture 9 annotated]() | [Video]() | | 
+| Feb 4 | Instacart use-case Recommendations and Prompting | [Lecture 10](lectures/Feb_4_2026_lecture_10.pdf) [Prompting](lectures/LLM_Prompting_principles.pdf) | [Lecture 10 annotated]() | [Video]() | | 
