@@ -39,4 +39,4 @@
 | Feb 11 | ChatBot Design and LLM Attacks| [Lecture 12](lectures/Feb_11_2026_lecture_12.pdf) | [Lecture 12 annotated]() | [Video](https://youtu.be/ID4L6BYutEY) |  | 
 | Feb 23 | LoRA Fine-Tuning| [Lecture 13](lectures/Feb_23_2026_lecture.pdf) | [Lecture 13 annotated]() | [Video](https://youtu.be/a0u_jCr3EYk) | [Coding Exercise](https://colab.research.google.com/drive/1E-_IiN341ApiGRVeCQpffdLKKue5sGBI?usp=sharing) | 
 | Feb 24 | LLM Agents| [Lecture 14](lectures/Feb_24_2026_lecture.pdf) | [Lecture 14 annotated]() | [Video](https://youtu.be/c-YzRCghWVA) | | 
-| Feb 25 | LLM Agents Continued| [Lecture 15](lectures/Feb_25_2026_lecture.pdf) | [Lecture 15 annotated]() | [Video]() | [Coding Exercise]() | 
+| Feb 25 | LLM Agents Continued| [Lecture 15](lectures/Feb_25_2026_lecture.pdf) | [Lecture 15 annotated]() | [Video]() | [Coding Exercise](https://colab.research.google.com/drive/1YkL-dza6gnDUdwMGeM0-4SU_PKsffkGz?usp=sharing) | 
