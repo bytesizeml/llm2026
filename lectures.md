@@ -41,3 +41,4 @@
 | Feb 24 | LLM Agents| [Lecture 14](lectures/Feb_24_2026_lecture.pdf) | [Lecture 14 annotated]() | [Video](https://youtu.be/c-YzRCghWVA) | | 
 | Feb 25 | LLM Agents Continued| [Lecture 15](lectures/Feb_25_2026_lecture.pdf) | [Lecture 15 annotated]() | [Video](https://www.youtube.com/watch?v=DgpHA3buhF4) | [Coding Exercise](https://colab.research.google.com/drive/1YkL-dza6gnDUdwMGeM0-4SU_PKsffkGz?usp=sharing) | 
 | Mar 2 | Llama3 & DeepSeek (Part 1)| [Lecture 16](lectures/Llama3_talk_1.pdf) | [Lecture 16 annotated]() | [Video]() |  | 
+| Mar 9 | Llama3 Inferencing (Part 2)| [Lecture 17](lectures/Llama3_talk_2.pdf) | [Lecture 17 annotated]() | [Video]() |  | 
